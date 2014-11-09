@@ -1,3 +1,26 @@
+## Version 1.1.0 (2014-11-09)
+
+- Fire `bower install` via git post-merge hook. Closes #10
+- Validate HTML and lint markup with via Bootlint
+- Auto check status of dev dependencies via badge.
+- Update dev dependencies.
+- Update Bootstrap from 3.2.0 to 3.3.0
+- Fix typo and add newline at end of file.
+- Add own Print-CSS for better accessibility and readability.
+- Fix filename for minified JavaScript files
+- Add logo
+- Get rid of test images
+- Copy the whole libs directory to server and dist directories
+- And media query helper variables and »tests«
+- Add »divider« comment which remains in compiled CSS
+- Update release tasks
+- Update README
+- Add editor settings to README.md
+- Update Readme
+- Add keyword to bower.json
+- Update bower.json
+
+
 ## Version 1.0.3 (2014-09-22)
 
 - Fix filename for minified JavaScript files
