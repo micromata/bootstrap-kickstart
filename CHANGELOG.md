@@ -1,3 +1,207 @@
+## Version 1.2.0 (2014-12-29)
+
+- Use `grunt-banner` to bring back CSS banners
+- Concatenate and minify bower libs in production built.
+- Fix git hook
+- Grunt performance → Get rid of server directory and cachebusting
+- Update dev dependencies.
+- Use original Bootstrap JS modules in development …
+- Change uglifiying tasks
+- Prevent copying non minified CSS to dist directory
+- Prevent copying of html files.
+- Single quotes all over …
+- Update Readme.
+- Update Readme
+- Added cd to the git install instructions
+- Changed git-fork from ssh to https for non registered users
+- Release v1.1.3
+- Fix cachebusting in conjunction with the dev server
+- Change port numbers of dev servers
+- Update dev dependencies
+- Update homepage within package.json
+- Release v1.1.2
+- Update Bootstrap from v3.3.0 to v3.3.1
+- Release v1.1.1
+- Fix link to status of dev dependencies.
+- Update grunt-bootlint to latest version (0.5.1)
+- Release v1.1.0
+- Fire `bower install` via git post-merge hook. Closes #10
+- Validate HTML and lint markup with via Bootlint
+- Auto check status of dev dependencies via badge.
+- Update dev dependencies.
+- Update Bootstrap from 3.2.0 to 3.3.0
+- Fix typo and add newline at end of file.
+- Add own Print-CSS for better accessibility and readability.
+- Release v1.0.3
+- Fix filename for minified JavaScript files
+- Add logo
+- Get rid of test images
+- Copy the whole libs directory to server and dist directories
+- Add »divider« comment which remains in compiled CSS
+- Update release tasks
+- Update README
+- Add editor settings to README.md
+- Update Readme
+- Add keyword to bower.json
+- Update bower.json
+- Fix filename for minified JavaScript files
+- Add logo
+- Get rid of test images
+- Copy the whole libs directory to server and dist directories
+- And media query helper variables and »tests«
+- Add »divider« comment which remains in compiled CSS
+- Update release tasks
+- Update README
+- Add editor settings to README.md
+- Update Readme
+- Add keyword to bower.json
+- Update bower.json
+- Release v1.0.2
+- Improve Quick guide
+- Fix Bower package
+- Release v1.0.1
+- Get rid of `v` prefix in tags.
+- Update README.md
+- Fix typos in README.md
+- Release v1.0.0
+- Delete headline in changelog
+- Add zips to .git ignore
+- Finished README for v1.0.0
+- Update comments
+- More logical order of importants
+- Add new keyword
+- Epic update of README.md
+- Edit Gruntfile
+- Update README
+- Update bower.json
+- Add reference to jquery.placeholder.js
+- Remove CSS from version control
+- Delete CSS from assets.
+- Add more demo pages and related LESS files
+- Delete TODO.md
+- Update README
+- Prefix tag name with »v«
+- Relaxing versions of bower dependencies.
+- Relaxing versions of dev dependencies.
+- Add @necolas to humans.txt
+- Rename LICENSE
+- Update To Do
+- Release v0.1.0
+- Add guidelines for contributing
+- Change title
+- Update Release task.
+- Configure release tasks.
+- Add grunt-changelog
+- Fix build task.
+- Revert "Bump version number v0.0.5"
+- Bump version number v0.0.5
+- Add grunt-newer
+- Make grunt watch work together with server
+- Use a server directory for hosting the files.
+- Update humans.txt
+- Update .editorconfig
+- Update humans.txt
+- Update humans.txt
+- Add humans.txt
+- Update License
+- Delete Piwik code
+- Reformat HTML.
+- Update Comments
+- Update To Do
+- Update bower.json
+- Update package.json
+- Update To Do
+- Move html templates from assets to root
+- Add conditional classes.
+- Add placeholder polyfill to bower.json
+- »Freeze« version of bower dependencies.
+- Update To Do
+- Update Grunt Tasks.
+- Configure bump and changelog tasks
+- Add grunt tasks:
+- Update To Do
+- Revert "Bump version number v0.0.5"
+- Bump version number v0.0.5
+- Add missing files for release task.
+- Update To Do.
+- Add bootstrap fonts to dist directory.
+- Enhance banners for CSS and JS files.
+- Add release task to generate zip files.
+- Update To Do.
+- Update change log.
+- Bump version number to 0.0.4
+- Update To Do.
+- Optimize browser sync setup.
+- Fix typo.
+- Make use of browser sync.
+- Make use of browser sync.
+- Update TODO.
+- Run `grunt dev` before `grunt server` when using the default task.
+- Busting caches.
+- Update TODO
+- Set minified JS to .gitignore
+- Add generic helpers.
+- Improve docs of base.js
+- Add To Dos.
+- Add sublime settings to .gitignore
+- Add sublime settings to .gitignore
+- Use minified css in production build (instead of minified and cleaned)
+- Delete console output from base.js
+- Add details to bower.json
+- Recompile minified js.
+- Additions to package.json
+- Drop console output  in production build.
+- Add plato task.
+- Add plato task.
+- Fix module example code.
+- Clean .jshintrc Comments making problems with different tool.
+- Add jsdoc task.
+- Add  »grunt-available-tasks«.
+- Add local dev server.
+- First draft of build task.
+- Fix package name.
+- Install grunt-autoprefixer.
+- Fix banner of minified JS.
+- Add "es3" to js.hintrc to prevent problems with trailing commas up to IE8.
+- Run grunt.
+- First version of grunt file. Needs work.
+- Add "es3" to js.hintrc to prevent problems with trailing commas up to IE8.
+- Upgrade Bootstrap to new minor release 3.2.
+- Upgrade Bootstrap to new minor release 3.2.
+- Refactor JavaScript: * Wrapping functions with base module * Make em pass JSHint * Change namespace
+- Update .gitignore
+- Add time-grunt.
+- Update dependencies. Finetune package.json
+- Prepare to register bower package.
+- Add package.json to install grunt tasks.
+- Update README: - Move changelog to separate file. - Add License - Fix typo
+- Bump version number.
+- Add example javascript module.
+- Documentation: Get slightly more explicit.
+- Replace "no-us" class with "js" when JavaScript is available.
+- Update base.js - Add console methods for old IEs
+- Add config.codekit to .gitignore
+- Add viewport fix according to http://getbootstrap.com/getting-started/#support-ie10-width
+- Piwik Integriert und Google Analytics entfernt
+- Bump version number.
+- Update HTML Boilerplate: - User local resources from libs directory - Adapt stuff from the »HTML5 Boilerplate«
+- Add HTML Boilerplate code from Kai.
+- Add respond.js
+- Fix typos.
+- Add html5shiv
+- Doppelpunkt statt Punkt ;)
+- Add README.
+- Add fonts and ing directories with placeholders.
+- Add dummy HTML-Template.
+- Add generated CSS.
+- Fix Path to bootstrap sources.
+- Add example LESS structure.
+- Add system stuff to .gitignore
+- Add global JSHint settings via .jshintrc
+- Add global editor settings via .editorconfig
+- Install bootstrap 3.1.x and jquery 1.1.x via bower
+
+
 ## Version 1.1.3 (2014-11-26)
 
 - Fix cachebusting in conjunction with the dev server
