@@ -1,3 +1,13 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+# Bootstrap Kickstart is deprecated
+
+… and won’t be actively maintained in the future.
+But there is no need to worry at all, because we’ve released it’s successor called Baumeister.
+Make sure to check out the [Baumeister Repository](https://github.com/micromata/baumeister).
+
+---
+
 [![Build Status](https://travis-ci.org/micromata/bootstrap-kickstart.svg?branch=master)](https://travis-ci.org/micromata/bootstrap-kickstart)
 [![Dependency Status](https://david-dm.org/micromata/bootstrap-kickstart.svg)](https://david-dm.org/micromata/bootstrap-kickstart)
 [![devDependency Status](https://david-dm.org/micromata/bootstrap-kickstart/dev-status.svg)](https://david-dm.org/micromata/bootstrap-kickstart#info=devDependencies)
