@@ -22,7 +22,7 @@
   },
   "private": true,
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^4.0.0",
     "html5shiv": "^3.7.3",
     "jquery": "^3.2.1",
     "jquery-placeholder": "^2.3.1",
